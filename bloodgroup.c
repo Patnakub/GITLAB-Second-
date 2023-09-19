@@ -6,6 +6,7 @@ void main()
   do
   {
     printf("What is your age? ");
+    printf("What is your height? ");
     scanf("%s", Name);
     do
     {
